@@ -26,3 +26,4 @@
 <a href="https://linkedin.com/in/hagoraya" target="blank"><img align="" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hagoraya" height="30" width="30" /></a>  
 <a href="https://instagram.com/harpyeet" target="blank"><img align="" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="harpyeet" height="30" width="30" /></a>  
 </p>
+
