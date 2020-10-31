@@ -5,10 +5,7 @@
 
 ## About me
 
-- 💻 I’m currently seeking a Full Stack position.
 - 🎓 I have a BSc in computer science from York University 🍁
-- 👯 I’m looking to collaborate with other creators and build great apps
-- 🥅 2020 Goals: Contribute more to Open Source projects
 - 🔭 I’m currently working on many different projects!
 - ⚡ Fun fact: I love hiking and playing soccer
 
