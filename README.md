@@ -5,6 +5,4 @@
 
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hagoraya&layout=compact&hide=html" alt="hagoraya" /></p>  
-  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hagoraya&show_icons=true" alt="hagoraya" /></p>  
-  
+    
